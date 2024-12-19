@@ -15,6 +15,12 @@ Proyek ini mencakup berbagai model Machine Learning dan GAN sebagai metode perba
 - AnoGAN
 - CGAN
 
+### Dataset : 
+1. https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
+2. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 ## Anggota Kelompok 11
 
 | No.  | Nama Anggota       | NRP          |
@@ -65,3 +71,18 @@ http://127.0.0.1:5000
 |Model|Random Forest|XGBoost|CatBoost|LightGBM|Isolation Forest|AnoGAN|CGAN|
 |------|------------|-------|--------|--------|----------------|------|----|
 | Akurasi |0.9997|0.9992|0.9996|0.9967|0.4203|0.9481|0.7818|
+
+
+## 📊 Input dan Output
+
+### Input 
+
+![image](https://github.com/user-attachments/assets/c9632911-5147-46ff-8e48-22114b9be36a)
+
+### Output 
+
+#### Fraud
+![image_2024-12-19_13-38-36](https://github.com/user-attachments/assets/6fdb1339-92d1-4df2-8286-d678935201bb)
+
+#### Bukan Fraud
+![image](https://github.com/user-attachments/assets/4b4ee02b-df9c-4ec3-8b68-cf343bd20d54)
